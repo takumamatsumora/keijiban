@@ -1,0 +1,140 @@
+
+header{
+    width:100%;
+}
+.logo img{
+    width:350px;
+}
+.nav{
+    height:60px;
+    background-color:black;
+}
+header ul{
+    list-style-type:none;
+    line-height:60px;
+}
+header ul li{
+    float:left;
+    padding-right:30px;
+    padding-left:30px;
+    color: white;
+}
+main{
+    clear:both;
+}
+.main-containar{
+    width:100%;
+    margin:0 auto;
+    margin-top:70px;
+}
+.left{
+    float:left;
+    width:70%;
+    background-color:white;
+    margin-bottom:40px;
+    padding-right:40px;
+}
+.left h2{
+    border-bottom:solid 1px;
+    border-left:solid 5px;
+    margin-top:40px;
+    margin-bottom:10px;
+}
+.keijiban{
+   float:left;
+   width:100%;
+   margin:0px auto; 
+   margin-bottom:10px;
+   background-color:white;
+   border:3px solid lightgray;
+   padding:10px 10px;
+}
+
+.keijiban h3{ 
+    border-left:4px solid red;
+    padding-left:5px;
+    margin-left:15px;
+    border-bottom:none;
+}
+.touroku{
+    clear:left;
+}
+form{ margin:0 auto;
+    background-color:#fbfbfb;
+    border:3px #ebebeb solid;   
+    border-radius:10px;
+    width:100%;
+}
+
+form div{
+    padding:15px;
+}
+.text,textarea{
+    border:1px solid #dfdfdf;
+    padding:5px;
+    color:#999;
+    background:#fff;
+}
+.submit{
+    border:1px solid lightgray;
+    padding:4px 10px;
+    color:white;
+    background-color:dimgray;
+    border-radius:5px;
+    border-bottom:solid 2px black;
+    margin:15px 0;
+}
+.handlename{
+    font-size:12px;
+}
+.comments{
+    margin:5px;
+    padding-bottom:5px;
+}
+
+.kiji1{
+    float:left;
+    width:100%;
+    margin-bottom:10px;
+    padding:10px 10px;
+    background-color:white;
+    border:3px solid lightgray;
+
+
+}
+.kiji h3{
+    border-bottom:2px solid lightgray;
+}
+.right{
+    float:left;
+    width:25%;
+    background-color:white;
+    margin-bottom:40px;
+    line-height:2em;
+    margin-top:20px;
+}
+.right h3{
+    border-bottom:dotted;
+    margin-top:20px;
+    margin-left:50px;
+    margin-right:50px;
+}
+.right ul {
+    list-style:none;
+}
+.right ul li{
+    margin-left:30px;
+    margin-top:10px; 
+}
+
+h3{
+    border-bottom:2px dotted gray;
+}
+footer{
+    clear:left;
+    width:100%;
+    line-height:60px;
+    background-color:black;
+    color:white;
+    text-align:center;
+}
